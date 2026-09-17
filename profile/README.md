@@ -53,7 +53,7 @@ DATA SCIENCE / ASTROPHYSICS
 
 | Phase 0 (Current) | PHASE 1 (LOCAL DROPS) | PHASE 2 (1.600g BALLOON) | PHASE 3 (3.000g TITAN) |
 | ----------------- | --------------------- | ------------------------ | ---------------------- | 
-| Architectural | 300-500m Drop Tests | 35.000m Stratosphere | 40.000m Near-Vacuum |
+| Architectural | controlled 1000m Drop Tests | 35.000m Stratosphere | 40.000m Near-Vacuum |
 | Design & Bench | GNC, Grid Fins & Parachute | 1.600g Balloon (250€) | 3.000g Balloon (800€) |
 | Testing | Landing-Leg Verification | Full Science Payload | Final Pinnacle Mission |
 
@@ -62,7 +62,7 @@ DATA SCIENCE / ASTROPHYSICS
   FreeRTOS task scheduling, IMU sensor-fusion loops, hardware interrupt testing for radiation logging, and JOANUS pipeline modularization
 
 **Phase 1 (Low-Altitude Drop Tests)** <br>
-  Multicopter drone drops from 100–500m over designated fields to validate flight state machines, grid-fin PID control, and parachute deployment
+  Controlled Drops from 1000m over designated fields to validate flight state machines, grid-fin PID control, and parachute deployment
 
 **Phase 2 (Stratospheric Mission - 1.600g Envelope)** <br>
   High-altitude launch up to ~35,000m targeting Pfotzer-Maximum radiation profiling, biological yeast exposure, 4K stratospheric photography, and active return homing
