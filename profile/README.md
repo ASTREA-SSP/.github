@@ -1,5 +1,7 @@
 # 🛸 ASTREA SOLO SPACE PROGRAM (ASTREA SSP)
 
+☕ [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/astreassp) 
+
 HARDWARE / AVIONICS / FLIGHT GUIDANCE
 
 🛸 Mission `ICARUS-RLV` featuring:
